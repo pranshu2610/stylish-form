@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stylish-form/static/css/main.d91e237e.chunk.css",
+    "main.js": "/stylish-form/static/js/main.f3003c94.chunk.js",
+    "main.js.map": "/stylish-form/static/js/main.f3003c94.chunk.js.map",
+    "runtime-main.js": "/stylish-form/static/js/runtime-main.166607d5.js",
+    "runtime-main.js.map": "/stylish-form/static/js/runtime-main.166607d5.js.map",
+    "static/js/2.07e943dc.chunk.js": "/stylish-form/static/js/2.07e943dc.chunk.js",
+    "static/js/2.07e943dc.chunk.js.map": "/stylish-form/static/js/2.07e943dc.chunk.js.map",
+    "index.html": "/stylish-form/index.html",
+    "precache-manifest.bd82b71dd55cf32fd18b42e4caef7dd3.js": "/stylish-form/precache-manifest.bd82b71dd55cf32fd18b42e4caef7dd3.js",
+    "service-worker.js": "/stylish-form/service-worker.js",
+    "static/css/main.d91e237e.chunk.css.map": "/stylish-form/static/css/main.d91e237e.chunk.css.map",
+    "static/js/2.07e943dc.chunk.js.LICENSE.txt": "/stylish-form/static/js/2.07e943dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.166607d5.js",
+    "static/js/2.07e943dc.chunk.js",
+    "static/css/main.d91e237e.chunk.css",
+    "static/js/main.f3003c94.chunk.js"
+  ]
+}
